@@ -1,7 +1,4 @@
-
-
-
-Advanced Biometric Authentication Engine // Hardened with DevCurity
+ DevCurity then Ultimate AiBoT Security
 
 Version: 1.0.0 | License: MIT | Status: Operational | Framework: Sovereign  
 
